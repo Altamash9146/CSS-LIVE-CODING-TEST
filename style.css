@@ -1,0 +1,88 @@
+.i1{
+    background-image: url(problem-page-seo.png);
+   background-size:contain; height: 100px; width: 200px;
+   background-repeat:no-repeat;
+   position: absolute; top: 25px; left: 20px ;
+}
+
+.container{
+    border: 1px solid white;
+    display: flex;
+    float: right;
+    width: 280px;
+    margin: 30px;
+    padding: 15px;
+    justify-content: space-evenly;
+}
+
+.c{
+    border: 3px solid black;
+    border-radius: 20px;
+    padding: 5px;
+    background-color:aliceblue;
+}
+
+.container1{
+    border: 3px solid white;
+    display: flex;
+    padding: 20px;
+    height:800px;
+    width: 95%;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.d{
+    border: 3px solid green;
+    border-radius: 10px;
+    padding: 5px;
+    width: 300px;
+    height: 225px;
+    padding: 10px;
+    text-shadow: 2px 2px 15px yellow;
+    box-shadow: 2px 2px 5px green;
+}
+
+
+.d2{
+    text-decoration:line-through;
+}
+.d3{
+    text-decoration-style:wavy;
+}
+.d4{
+    text-decoration:overline;
+}
+
+.I1{
+    background-image: url(./html-removebg-preview.png);
+   background-size: cover; height: 100px; width: 100px;
+   background-repeat:no-repeat;
+   position: relative; top: 15px; left: 90px;
+   
+}
+
+.I2{
+    background-image: url(./css-removebg-preview.png);
+   background-size: cover; height: 100px; width: 100px;
+   background-repeat:no-repeat;
+   position: relative; top: 15px; left: 90px;
+   
+}
+
+.I3{
+    background-image: url(./react-removebg-preview.png);
+   background-size:contain; height: 100px; width: 100px;
+   background-repeat:no-repeat;
+   position: relative; top: 15px; left: 90px;
+   
+}
+
+.I4{
+    background-image: url(./node-removebg-preview.png);
+   background-size:contain; height: 100px; width: 100px;
+   background-repeat:no-repeat;
+   position: relative; top: 15px; left: 90px;
+   
+}
